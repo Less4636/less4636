@@ -7,7 +7,7 @@ local espupdatetime = 1; autoesp = true
  
  
  
-local lockaim = true; local lockangle = 2
+local lockaim = true; local lockangle = 0
  
  
  
